@@ -17,3 +17,6 @@ PackageUseDevtools: Yes
 PackagePath: First
 PackageInstallArgs: --no-multiarch --with-keep.source
 PackageRoxygenize: rd,collate,namespace,vignette
+
+
+###This is Erikas contribuation
